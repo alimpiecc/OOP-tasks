@@ -1,0 +1,10 @@
+D:\studi\ООП\Graphics\Graphics\bin\Debug\Graphics.exe.config
+D:\studi\ООП\Graphics\Graphics\bin\Debug\Graphics.exe
+D:\studi\ООП\Graphics\Graphics\bin\Debug\Graphics.pdb
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.cache
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.exe
+D:\studi\ООП\Graphics\Graphics\obj\Debug\Graphics.pdb
